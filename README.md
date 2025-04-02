@@ -9,4 +9,4 @@ Time Complexity:
 O(N): The solution requires a single traversal of the array to calculate the sum.
 
 Space Complexity:
-O(1): We are using only a few variables to hold the sums and no additional space for data structures.
+O(1): We are using only a few variables to hold the sums and no additional space for data structures...
